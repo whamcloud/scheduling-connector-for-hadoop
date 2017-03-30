@@ -20,6 +20,7 @@ Maven build goals:
  * Clean				: mvn clean
  * Compile				: mvn compile
  * Run tests				: mvn test
+ * Generate Eclipse files		: mvn eclipse:eclipse
  * Create JAR/Install JAR in M2 cache   : mvn install
 
 Installation:
