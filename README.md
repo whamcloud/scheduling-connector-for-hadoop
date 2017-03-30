@@ -11,7 +11,7 @@ Apache Hadoop is architected for storage and large scale processing of data-sets
 
 Requirements:
 
-* JDK 1.8+
+* JDK 1.7+
 * Maven 3.0 or later
 * Internet connection for first build (to fetch all Maven and Hadoop dependencies)
 
@@ -103,3 +103,7 @@ Configure the below configurations in mapred-site.xml file for handling the M/R 
 ### Running Apache Hadoop Applications
 
 Run the Apache Hadoop Applications with the above configurations, all the tasks will run with the configured HPC Scheduler.
+
+### References
+
+http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015-Devaraj-Kavali.pdf
