@@ -1,5 +1,7 @@
 // Copyright (c) 2017 Intel Corporation. All rights reserved.
+
 // Use of this source code is governed by a MIT-style
+
 // license that can be found in the LICENSE file.
 
 # HPC Adapter for Mapreduce/Yarn(HAM)
@@ -107,4 +109,5 @@ Run the Apache Hadoop Applications with the above configurations, all the tasks 
 
 ### References
 
-http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015-Devaraj-Kavali.pdf
+Kavali, Devaraj. "Hadoop Applications on High Performance Computing." http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015-Devaraj-Kavali.pdf 1 (2015).
+Kavali, Devaraj. "Hadoop Applications on High Performance Computing." ApacheCon2015 1.1 (2015): 31.
