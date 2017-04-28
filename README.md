@@ -109,5 +109,5 @@ Run the Apache Hadoop Applications with the above configurations, all the tasks 
 
 ### References
 
-Kavali, Devaraj. "Hadoop Applications on High Performance Computing." http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015-Devaraj-Kavali.pdf 1 (2015).
-Kavali, Devaraj. "Hadoop Applications on High Performance Computing." ApacheCon2015 1.1 (2015): 31.
+1. Kavali, Devaraj. "Hadoop Applications on High Performance Computing." http://events.linuxfoundation.org/sites/events/files/slides/ApacheCon2015-Devaraj-Kavali.pdf 1 (2015).
+2. Kavali, Devaraj. "Hadoop Applications on High Performance Computing." ApacheCon2015 1.1 (2015): 31.
